@@ -1,11 +1,11 @@
 {
-  "name":"",
+  "name":"Redmi Note 6 Pro",
   "codename":"tulip",
-  "filename":"Spark-S-Tempest-OFFICIAL-tulip-20211227.zip",
-  "version":"S-Tempest-OFFICIAL-tulip-20211227",
-  "maintainer":"",
-  "username":"",
-  "size":817519298,
-  "url":"https://downloads.spark-os.live/tulip/Spark-S-Tempest-OFFICIAL-tulip-20211227.zip",
-  "group":""
+  "filename":"Spark-S-Tempest-OFFICIAL-tulip-20211228.zip",
+  "version":"S-Tempest-OFFICIAL-tulip-20211228",
+  "maintainer":"Julival Bittencourt",
+  "username":"bittencourtjulival",
+  "size":817576679,
+  "url":"https://downloads.spark-os.live/tulip/Spark-S-Tempest-OFFICIAL-tulip-20211228.zip",
+  "group":"https://t.me/spark_tulip"
 }
