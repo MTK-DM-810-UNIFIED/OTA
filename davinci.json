@@ -1,11 +1,11 @@
 {
-  "name":"Redmi MI 9T",
+  "name":"Mi9t",
   "codename":"davinci",
-  "filename":"Spark-S-Tempest-official-davinci-20211224.zip",
-  "version":"S-Tempest-official-davinci-20211224",
+  "filename":"Spark-S-Energized-Official-davinci-20220118.zip",
+  "version":"S-Energized-Official-davinci-20220118",
   "maintainer":"spkal01",
   "username":"spkal01",
-  "size":1021043779,
-  "url":"https://downloads.spark-os.live/davinci/Spark-S-Tempest-official-davinci-20211224.zip",
+  "size":1160720427,
+  "url":"https://downloads.spark-os.live/davinci/Spark-S-Energized-Official-davinci-20220118.zip",
   "group":"https://t.me/spkal01hub"
 }
