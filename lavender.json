@@ -1,11 +1,11 @@
 {
-  "name":"Redmi Note 7/S",
+  "name":"Xiaomi Redmi Note 7",
   "codename":"lavender",
-  "filename":"Spark-S-Tempest-OFFICIAL-lavender-20211226-gapps.zip",
-  "version":"S-Tempest-OFFICIAL-lavender-20211226-gapps",
-  "maintainer":"Aaradhay Vijay",
-  "username":"inferno964",
-  "size":1487944702,
-  "url":"https://downloads.spark-os.live/lavender/Spark-S-Tempest-OFFICIAL-lavender-20211226-gapps.zip",
+  "filename":"Spark-S-Energized-OFFICIAL-lavender-20220126.zip",
+  "version":"S-Energized-OFFICIAL-lavender-20220126",
+  "maintainer":"Vitor Leal",
+  "username":"bitortheaddicted",
+  "size":876674245,
+  "url":"https://downloads.spark-os.live/lavender/Spark-S-Energized-OFFICIAL-lavender-20220126.zip",
   "group":"https://t.me/infernobuilds"
 }
