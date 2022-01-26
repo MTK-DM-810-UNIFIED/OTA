@@ -1,10 +1,11 @@
 {
   "name":"Redmi Note 10 Pro",
   "codename":"sweet",
-  "filename":"Spark-S-Tempest-OFFICIAL-sweet-20211227-gapps.zip",
-  "version":"S-Tempest-OFFICIAL-sweet-20211227-gapps",
+  "filename":"Spark-S-Energized-Official-sweet-20220126.zip",
+  "version":"S-Energized-Official-sweet-20220126",
   "maintainer":"BolaRamy",
   "username":"bolaalex",
-  "size":1742505648,
+  "size":1102791773,
+  "url":"https://downloads.spark-os.live/sweet/Spark-S-Energized-Official-sweet-20220126.zip",
   "group":"https://t.me/Spark_sweet"
 }
