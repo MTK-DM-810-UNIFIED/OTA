@@ -1,11 +1,11 @@
 {
   "name":"Redmi Note 4",
   "codename":"mido",
-  "filename":"Spark-S-Tempest-Official-mido-20220103-gapps.zip",
-  "version":"S-Tempest-Official-mido-20220103-gapps",
+  "filename":"Spark-12.0-Official-mido-20220213.zip",
+  "version":"12.0-Official-mido-20220213",
   "maintainer":"RasyidAlKautsar",
   "username":"RasyidAlKautsar",
-  "size":1341968262,
-  "url":"https://downloads.spark-os.live/mido/Spark-S-Tempest-Official-mido-20220103-gapps.zip",
-  "group":"https://t.me/SparkOS_mido_official"
+  "size":746507506,
+  "url":"https://downloads.spark-os.live/mido/Spark-12.0-Official-mido-20220213.zip",
+  "group":"https://t.me/SparkOS_Official_Mido"
 }
