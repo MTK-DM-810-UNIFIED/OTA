@@ -1,11 +1,11 @@
 {
   "name":"POCO F3",
   "codename":"alioth",
-  "filename":"Spark-S-Energized-Official-alioth-20220125.zip",
-  "version":"S-Energized-Official-alioth-20220125",
+  "filename":"Spark-12.0-Official-alioth-20220215.zip",
+  "version":"12.0-Official-alioth-20220215",
   "maintainer":"Ziad Fekry",
   "username":"Ziad Fekry",
-  "size":1137254518,
-  "url":"https://downloads.spark-os.live/alioth/Spark-S-Energized-Official-alioth-20220125.zip",
-  "group":"t.me/spsalioth"
+  "size":1226471471,
+  "url":"https://downloads.spark-os.live/alioth/Spark-12.0-Official-alioth-20220215.zip",
+  "group":"https://t.me/SparkOSCommunity"
 }
