@@ -1,11 +1,11 @@
 {
   "name":"Redmi Note 8 Pro",
   "codename":"begonia",
-  "filename":"Spark-12.0-Official-begonia-20220214.zip",
-  "version":"12.0-Official-begonia-20220214",
+  "filename":"Spark-12.1-Official-begonia-20220227.zip",
+  "version":"12.1-Official-begonia-20220227",
   "maintainer":"Itachi Uchiha",
   "username":"KonohaHokage",
-  "size":895726537,
-  "url":"https://downloads.spark-os.live/begonia/Spark-12.0-Official-begonia-20220214.zip",
+  "size":956674691,
+  "url":"https://downloads.spark-os.live/?dir=begonia/",
   "group":"https://t.me/Uchiha_Clan_Begonia"
 }
