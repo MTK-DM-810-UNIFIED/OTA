@@ -1,11 +1,11 @@
 {
   "name":"Poco M3 / Redmi 9T",
   "codename":"juice",
-  "filename":"Spark-12.0-Official-juice-20220214.zip",
-  "version":"12.0-Official-juice-20220214",
+  "filename":"Spark-12.1-Official-juice-20220228.zip",
+  "version":"12.1-Official-juice-20220228",
   "maintainer":"Umaruchan",
   "username":"darkpewds",
-  "size":750191416,
-  "url":"https://downloads.spark-os.live/juice/Spark-12.0-Official-juice-20220214.zip",
+  "size":811559253,
+  "url":"https://downloads.spark-os.live/?dir=juice/",
   "group":"https://t.me/UmaruchanSupport"
 }
