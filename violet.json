@@ -1,11 +1,11 @@
 {
   "name":"Redmi Note 7 Pro",
   "codename":"violet",
-  "filename":"Spark-12.0-Official-violet-20220212-gapps.zip",
-  "version":"12.0-Official-violet-20220212-gapps",
+  "filename":"Spark-12.1-Official-violet-20220301.zip",
+  "version":"12.1-Official-violet-20220301",
   "maintainer":"Niranjan BR",
   "username":"mrfox2003",
-  "size":1581823141,
-  "url":"https://downloads.spark-os.live/violet/Spark-12.0-Official-violet-20220212-gapps.zip",
+  "size":1126008315,
+  "url":"https://downloads.spark-os.live/?dir=violet/",
   "group":"https://t.me/sparkosviolet"
 }
