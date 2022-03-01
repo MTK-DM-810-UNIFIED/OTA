@@ -1,11 +1,11 @@
 {
   "name":"Redmi Note 10 Pro",
   "codename":"sweet",
-  "filename":"Spark-12.0-Official-sweet-20220213.zip",
-  "version":"12.0-Official-sweet-20220213",
+  "filename":"Spark-12.1-Official-sweet-20220301.zip",
+  "version":"12.1-Official-sweet-20220301",
   "maintainer":"BolaRamy",
   "username":"bolaalex",
-  "size":1102563815,
-  "url":"https://downloads.spark-os.live/sweet/Spark-12.0-Official-sweet-20220213.zip",
+  "size":1163835428,
+  "url":"https://downloads.spark-os.live/?dir=sweet/",
   "group":"https://t.me/Spark_sweet"
 }
