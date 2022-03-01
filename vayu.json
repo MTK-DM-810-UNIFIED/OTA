@@ -1,11 +1,11 @@
 {
   "name":"POCO X3 Pro",
   "codename":"vayu",
-  "filename":"Spark-12.0-Official-vayu-20220212.zip",
-  "version":"12.0-Official-vayu-20220212",
+  "filename":"Spark-12.1-Official-vayu-20220301.zip",
+  "version":"12.1-Official-vayu-20220301",
   "maintainer":"KangMonkey",
   "username":"thepsambit",
-  "size":1124364703,
-  "url":"https://downloads.spark-os.live/vayu/Spark-12.0-Official-vayu-20220212.zip",
+  "size":1185739615,
+  "url":"https://downloads.spark-os.live/?dir=vayu/",
   "group":"https://t.me/WeedyBuilds"
 }
