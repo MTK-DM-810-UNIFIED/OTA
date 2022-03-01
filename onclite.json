@@ -1,11 +1,11 @@
 {
   "name":"Redmi 7",
   "codename":"onclite",
-  "filename":"Spark-12.0-Official-onclite-20220213.zip",
-  "version":"12.0-Official-onclite-20220213",
+  "filename":"Spark-12.1-Official-onclite-20220301.zip",
+  "version":"12.1-Official-onclite-20220301",
   "maintainer":"Ram Badan Pandey",
   "username":"MrTechnoStart",
-  "size":886788851,
-  "url":"https://downloads.spark-os.live/onclite/Spark-12.0-Official-onclite-20220213.zip",
+  "size":955194271,
+  "url":"https://downloads.spark-os.live/?dir=onclite/",
   "group":"https://t.me/sparkredmi7"
 }
