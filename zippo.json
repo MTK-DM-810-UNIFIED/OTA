@@ -1,11 +1,11 @@
 {
   "name":"Lenovo Z6 Pro",
   "codename":"zippo",
-  "filename":"Spark-12.0-Official-zippo-20220212.zip",
-  "version":"12.0-Official-zippo-20220212",
+  "filename":"Spark-12.1-Official-zippo-20220302.zip",
+  "version":"12.1-Official-zippo-20220302",
   "maintainer":"Chema_F",
   "username":"@chematelegram",
-  "size":985363559,
-  "url":"https://downloads.spark-os.live/zippo/Spark-12.0-Official-zippo-20220212.zip",
+  "size":1047139720,
+  "url":"https://downloads.spark-os.live/?dir=zippo/",
   "group":"https://t.me/SparkOSCommunity"
 }
