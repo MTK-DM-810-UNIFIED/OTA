@@ -1,11 +1,11 @@
 {
-  "name":"Poco F3/K40/Mi 11x",
+  "name":"Poco F3",
   "codename":"alioth",
-  "filename":"Spark-12.1-Official-alioth-20220302.zip",
-  "version":"12.1-Official-alioth-20220302",
+  "filename":"Spark-12.2-Official-alioth-20220407.zip",
+  "version":"12.2-Official-alioth-20220407",
   "maintainer":"Ziad Fekry",
   "username":"Ziad Fekry",
-  "size":1291661380,
+  "size":1229767892,
   "url":"https://downloads.spark-os.live/?dir=alioth/",
-  "group":"https://t.me/SparkOSCommunity"
+  "group":"https://t.me/spsalioth"
 }
