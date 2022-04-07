@@ -1,11 +1,11 @@
 {
   "name":"Xiaomi POCO F1",
   "codename":"beryllium",
-  "filename":"Spark-12.1-Official-beryllium-20220227.zip",
-  "version":"12.1-Official-beryllium-20220227",
-  "maintainer":"Jenkins",
-  "username":"SparkOsCommunity",
-  "size":976076851,
-  "url":"https://downloads.spark-os.live/?dir=beryllium/",
-  "group":"https://t.me/SparkOsChannel"
+  "filename":"Spark-12.2-Official-beryllium-20220407.zip",
+  "version":"12.2-Official-beryllium-20220407",
+  "maintainer":"Sourav",
+  "username":"xyz_sourav",
+  "size":996807790,
+  "url":"https://downloads.spark-os.live/beryllium/",
+  "group":"https://t.me/resist15_support"
 }
