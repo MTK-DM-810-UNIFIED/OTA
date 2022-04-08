@@ -1,11 +1,11 @@
 {
   "name":"Mi 9",
   "codename":"cepheus",
-  "filename":"Spark-12.1-Official-cepheus-20220302.zip",
-  "version":"12.1-Official-cepheus-20220302",
+  "filename":"Spark-12.2-Official-cepheus-20220413.zip",
+  "version":"12.2-Official-cepheus-20220413",
   "maintainer":"tribual",
   "username":"tribual",
-  "size":1290553129,
+  "size":1327401947,
   "url":"https://downloads.spark-os.live/?dir=cepheus/",
   "group":"https://t.me/tribual_mi9"
 }
