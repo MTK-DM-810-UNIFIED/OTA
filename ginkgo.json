@@ -1,11 +1,11 @@
 {
   "name":"Redmi Note 8",
   "codename":"ginkgo",
-  "filename":"Spark-12.1-Official-ginkgo-20220228.zip",
-  "version":"12.1-Official-ginkgo-20220228",
-  "maintainer":"Ashwin DS",
-  "username":"dsashwin",
-  "size":996363728,
+  "filename":"Spark-12.2-Official-ginkgo-20220408.zip",
+  "version":"12.2-Official-ginkgo-20220408",
+  "maintainer":"Jenkins (Automated)",
+  "username":"SparkOSCommunity",
+  "size":1022071730,
   "url":"https://downloads.spark-os.live/?dir=ginkgo/",
-  "group":"https://t.me/SparkRN8"
+  "group":"https://t.me/SparkOSCommunity"
 }
