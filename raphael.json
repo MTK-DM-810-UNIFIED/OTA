@@ -1,11 +1,11 @@
 {
   "name":"Redmi K20 Pro",
   "codename":"raphael",
-  "filename":"Spark-12.1-Official-raphael-20220304.zip",
-  "version":"12.1-Official-raphael-20220304",
-  "maintainer":"Naveen Johnson",
-  "username":"naveenjohnson",
-  "size":1245349596,
+  "filename":"Spark-12.2-Official-raphael-20220408.zip",
+  "version":"12.2-Official-raphael-20220408",
+  "maintainer":"Jenkins (Automated)",
+  "username":"SparkOSCommunity",
+  "size":1278273782,
   "url":"https://downloads.spark-os.live/?dir=raphael/",
-  "group":"https://t.me/area51k20p"
+  "group":"https://t.me/SparkOSCommunity"
 }
