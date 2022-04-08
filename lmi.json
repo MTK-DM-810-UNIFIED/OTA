@@ -1,11 +1,11 @@
 {
   "name":"POCO F2 Pro",
   "codename":"lmi",
-  "filename":"Spark-12.1-Official-lmi-20220302.zip",
-  "version":"12.1-Official-lmi-20220302",
+  "filename":"Spark-12.2-Official-lmi-20220409.zip",
+  "version":"12.2-Official-lmi-20220409",
   "maintainer":"Lowxorx",
   "username":"Lowxorx",
-  "size":1483737565,
+  "size":1473429143,
   "url":"https://downloads.spark-os.live/?dir=lmi/",
   "group":"https://t.me/SparkOSCommunity"
 }
