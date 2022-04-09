@@ -1,11 +1,11 @@
 {
   "name":"Poco X2",
   "codename":"phoenix",
-  "filename":"Spark-12.1-Official-phoenix-20220228.zip",
-  "version":"12.1-Official-phoenix-20220228",
+  "filename":"Spark-12.2-Official-phoenix-20220409.zip",
+  "version":"12.2-Official-phoenix-20220409",
   "maintainer":"Redcliff",
   "username":"RedcliffOP",
-  "size":1085502062,
+  "size":1116258802,
   "url":"https://downloads.spark-os.live/?dir=phoenix/",
   "group":"https://t.me/redcliffbuilds"
 }
