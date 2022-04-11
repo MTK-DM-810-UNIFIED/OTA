@@ -1,11 +1,11 @@
 {
   "name":"Redmi Note 6 Pro",
   "codename":"tulip",
-  "filename":"Spark-12.1-Official-tulip-20220301.zip",
-  "version":"12.1-Official-tulip-20220301",
+  "filename":"Spark-12.2-Official-tulip-20220411.zip",
+  "version":"12.2-Official-tulip-20220411",
   "maintainer":"Julival Bittencourt",
   "username":"bittencourtjulival",
-  "size":884605925,
+  "size":898712431,
   "url":"https://downloads.spark-os.live/?dir=tulip/",
   "group":"https://t.me/spark_tulip"
 }
