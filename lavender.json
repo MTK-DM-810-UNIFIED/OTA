@@ -1,11 +1,11 @@
 {
   "name":"Xiaomi Redmi Note 7",
   "codename":"lavender",
-  "filename":"Spark-12.1-Official-lavender-20220228.zip",
-  "version":"12.1-Official-lavender-20220228",
+  "filename":"Spark-12.2-Official-lavender-20220419.zip",
+  "version":"12.2-Official-lavender-20220419",
   "maintainer":"Vitor Leal",
   "username":"bitortheaddicted",
-  "size":941892415,
-  "url":"https://downloads.spark-os.live/?dir=lavender",
+  "size":961533050,
+  "url":"https://downloads.spark-os.live/?dir=lavender/",
   "group":"https://t.me/infernobuilds"
 }
